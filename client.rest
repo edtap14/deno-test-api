@@ -13,4 +13,6 @@ Content-Type: application/json
 ###
 PUT  http://localhost:8000/users
 ###
+GET http://localhost:8000/users/ethien
+###
 DELETE  http://localhost:8000/users
